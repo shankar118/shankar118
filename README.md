@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @shankar118 a new struggling nood in coding...
-- 👀 I’m interested in ... watching movies and coding
-- 🌱 I’m currently learning ...html,css,js,bootstrap
-- 💞️ I’m looking to collaborate on ...anyone who can help me to become a good coder
-- 📫 How to reach me ...9848416859 wahtsapp me
-# Welcome to [Your Name]'s Data Analyst Portfolio!
+- 👋 Hi, I’m @shankar118 a new Analyst in the market...
+- 👀 I’m interested in ... Story telling, A knack of creativity e.t.c
+- 💞️ I’m looking to collaborate on ...anyone who can help me to become a good Analyst and Knowledge sharing
+- 📫 How to reach me ... Email(shankarvaranasi18@gmail.com) linkedin(www.linkedin.com/in/hari-shankar-050702pb161297/ ) 9848416859 wahtsapp
+- 
+# Welcome to [Hari shankar]'s Data Analyst Portfolio!
 🌟 Welcome to my GitHub! I'm passionate about turning data into insights and stories.
 
 ## About Me
 I am a passionate and motivated data analyst with expertise in leveraging various tools and technologies to derive insights from data. My aim is to effectively utilize my skills and knowledge to solve real-world problems through data-driven approaches.
+
 📊 Aspiring Data Analyst | Excel & SQL Enthusiast | PowerBI & Tableau Explorer
+
 🔍 Skills
 - **Advanced Excel:** Proficient in using Excel for data cleaning, analysis, and visualization.
 - **Power BI:** Skilled in creating interactive and insightful dashboards for data representation.
@@ -27,12 +29,14 @@ I am a passionate and motivated data analyst with expertise in leveraging variou
 - Link: [If the project is hosted elsewhere, provide the link here]
 
 ## 📫 Reach me
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- LinkedIn: [www.linkedin.com/in/hari-shankar-050702pb161297/]
+- Email: [shankarr0516@gmai.com]
 💡 Open to collaborations, learning opportunities, and feedback!
+
 ## Certifications
-- [Certification Name] - [Certification Authority] - [Year]
+- [KPMG Virtual_Internship] - [Forage] - [2023]
 Let's connect and dive into the fascinating world of data analysis together! 🚀
+
 ## Goals
 I am enthusiastic about continuous learning and growth within the field of data analysis. My future goals include expanding my knowledge in machine learning and data science, as well as actively contributing to meaningful projects within the data community.
 
